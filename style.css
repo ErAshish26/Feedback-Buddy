@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    text-align: center;
+}
+.alert p{
+    background-color: red;
+    color: white;
+    padding: 15px;
+}
+.alert1 p{
+    background-color: green;
+    color: white;
+    padding: 15px;
+}
+.container {
+    border: 1px solid red;
+    padding: 35px;
+    display: block;
+   
+}
+
+.container h1{
+    color: blue;
+    /* color: white; */
+}
+.container hr{
+border: 2px solid whitesmoke;
+}
+.btn button{
+    border: 1px solid blueviolet;
+    padding: 5px;
+    width: 5%;
+}
+
